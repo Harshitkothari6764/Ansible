@@ -1,6 +1,6 @@
 --- # First YAML file
 - hosts: all
-  user: ansible
+  user: root
   become: yes
   connection: ssh
   gather_facts: yes
