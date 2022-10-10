@@ -1,5 +1,5 @@
 --- # First YAML file
-- hosts: demo
+- hosts: all
   user: ansible
   become: yes
   connection: ssh
